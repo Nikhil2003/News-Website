@@ -11,4 +11,4 @@ Open `http://localhost:3000` to view it in your browser.
 The page will reload when you make changes.
 
 ## Note:-
-without npm install the npm start command will not work and also the application will not open.
+without npm install the `npm start` command will not work and also the application will not open.
